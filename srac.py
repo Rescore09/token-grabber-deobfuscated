@@ -9,7 +9,9 @@ import zipfile
 import sys
 from urllib.request import Request, urlopen
 
-
+"""
+Don't run this unless you've removed all network functions.
+"""
 
 
 
